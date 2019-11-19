@@ -1,0 +1,5 @@
+#Ignore folder
+/​build​,​ /bin, /debug
+#Ignore all .sdf, .txt files except files in ​/data/text
+*.sdf​, ​*.txt 
+! /data/text
